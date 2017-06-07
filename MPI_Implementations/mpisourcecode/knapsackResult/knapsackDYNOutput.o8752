@@ -1,0 +1,6 @@
+NumberItems 500, NumberWeight 10000.
+Results: 
+1728.
+Times: 
+TFinalize-TRead -- 0.066099
+TFinalize-TStarted -- 0.221216
