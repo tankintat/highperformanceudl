@@ -1,0 +1,78 @@
+NumberItems 5000000, NumberWeight 100.NumberItems 500000, NumberWeight 100.
+Results: 
+9829.
+Times: 
+TFinalize-TRead -- 27.171665
+TFinalize-TStarted -- 27.259739
+NumberItems 500000, NumberWeight 1000.NumberItems 500000, NumberWeight 10000.NumberItems 50000, NumberWeight 100.
+Results: 
+8993.
+Times: 
+TFinalize-TRead -- 2.645519
+TFinalize-TStarted -- 2.666395
+NumberItems 50000, NumberWeight 1000.
+Results: 
+16810.
+Times: 
+TFinalize-TRead -- 4.376992
+TFinalize-TStarted -- 4.391314
+NumberItems 50000, NumberWeight 10000.NumberItems 5000, NumberWeight 100.
+Results: 
+4801.
+Times: 
+TFinalize-TRead -- 0.281993
+TFinalize-TStarted -- 0.284142
+NumberItems 5000, NumberWeight 1000.
+Results: 
+5296.
+Times: 
+TFinalize-TRead -- 0.444889
+TFinalize-TStarted -- 0.447281
+NumberItems 5000, NumberWeight 10000.
+Results: 
+5858.
+Times: 
+TFinalize-TRead -- 2.066941
+TFinalize-TStarted -- 2.068759
+NumberItems 500, NumberWeight 100.
+Results: 
+1782.
+Times: 
+TFinalize-TRead -- 0.039452
+TFinalize-TStarted -- 0.039644
+NumberItems 500, NumberWeight 1000.
+Results: 
+1722.
+Times: 
+TFinalize-TRead -- 0.055688
+TFinalize-TStarted -- 0.056123
+NumberItems 500, NumberWeight 10000.
+Results: 
+1728.
+Times: 
+TFinalize-TRead -- 0.224018
+TFinalize-TStarted -- 0.224487
+NumberItems 50, NumberWeight 100.
+Results: 
+700.
+Times: 
+TFinalize-TRead -- 0.014402
+TFinalize-TStarted -- 0.014503
+NumberItems 50, NumberWeight 1000.
+Results: 
+533.
+Times: 
+TFinalize-TRead -- 0.016513
+TFinalize-TStarted -- 0.016556
+NumberItems 50, NumberWeight 10000.
+Results: 
+546.
+Times: 
+TFinalize-TRead -- 0.035584
+TFinalize-TStarted -- 0.035802
+NumberItems 5, NumberWeight 5.
+Results: 
+129.
+Times: 
+TFinalize-TRead -- 0.012949
+TFinalize-TStarted -- 0.013175

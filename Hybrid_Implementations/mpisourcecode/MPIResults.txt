@@ -1,0 +1,96 @@
+NumberItems 5000000, NumberWeight 100.
+Results: 
+9900.
+Times: 
+TFinalize-TRead -- 10.568423
+TFinalize-TStarted -- 11.793524
+NumberItems 500000, NumberWeight 100.
+Results: 
+9829.
+Times: 
+TFinalize-TRead -- 1.055164
+TFinalize-TStarted -- 1.394754
+NumberItems 500000, NumberWeight 1000.
+Results: 
+45660.
+Times: 
+TFinalize-TRead -- 7.348894
+TFinalize-TStarted -- 7.639121
+NumberItems 500000, NumberWeight 10000.NumberItems 50000, NumberWeight 100.
+Results: 
+8993.
+Times: 
+TFinalize-TRead -- 0.105615
+TFinalize-TStarted -- 0.274800
+NumberItems 50000, NumberWeight 1000.
+Results: 
+16810.
+Times: 
+TFinalize-TRead -- 0.733503
+TFinalize-TStarted -- 0.834015
+NumberItems 50000, NumberWeight 10000.
+Results: 
+18820.
+Times: 
+TFinalize-TRead -- 6.548665
+TFinalize-TStarted -- 6.732827
+NumberItems 5000, NumberWeight 100.
+Results: 
+4801.
+Times: 
+TFinalize-TRead -- 0.014761
+TFinalize-TStarted -- 0.016989
+NumberItems 5000, NumberWeight 1000.
+Results: 
+5296.
+Times: 
+TFinalize-TRead -- 0.073382
+TFinalize-TStarted -- 0.210283
+NumberItems 5000, NumberWeight 10000.
+Results: 
+5858.
+Times: 
+TFinalize-TRead -- 0.656423
+TFinalize-TStarted -- 0.794147
+NumberItems 500, NumberWeight 100.
+Results: 
+1782.
+Times: 
+TFinalize-TRead -- 0.001158
+TFinalize-TStarted -- 0.196064
+NumberItems 500, NumberWeight 1000.
+Results: 
+1722.
+Times: 
+TFinalize-TRead -- 0.011917
+TFinalize-TStarted -- 0.012224
+NumberItems 500, NumberWeight 10000.
+Results: 
+1728.
+Times: 
+TFinalize-TRead -- 0.066099
+TFinalize-TStarted -- 0.221216
+NumberItems 50, NumberWeight 100.
+Results: 
+700.
+Times: 
+TFinalize-TRead -- 0.000304
+TFinalize-TStarted -- 0.000611
+NumberItems 50, NumberWeight 1000.
+Results: 
+533.
+Times: 
+TFinalize-TRead -- 0.001661
+TFinalize-TStarted -- 0.001759
+NumberItems 50, NumberWeight 10000.
+Results: 
+546.
+Times: 
+TFinalize-TRead -- 0.012214
+TFinalize-TStarted -- 0.012471
+NumberItems 5, NumberWeight 5.
+Results: 
+129.
+Times: 
+TFinalize-TRead -- 0.000068
+TFinalize-TStarted -- 0.000260
